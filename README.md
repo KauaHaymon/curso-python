@@ -1,2 +1,2 @@
 # curso-python
- Curso introdutório de Python com as principais funcionalidades.
+ Trajetória do curdo Python com as principais funcionalidades da linguagem.
