@@ -2,5 +2,5 @@
 # min (retonra o menor valor)
 # sum (soma todos os valores)
 
-numeros=(1,2,3)
+numeros = (1,2,3)
 print(sum(numeros))
